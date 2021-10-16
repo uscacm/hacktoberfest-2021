@@ -4,7 +4,7 @@
 
 ## About Hacktoberfest
 
-Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. Complete this year's challenge by contributing four pull requests of features and win free swag from Hacktoberfest. ACM’s workshop will provide the necessary tools to get you started! Sign up to participate in Hacktoberfest or read more about it ![here.](https://hacktoberfest.digitalocean.com/)
+Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. Complete this year's challenge by contributing four pull requests of features and win free swag from Hacktoberfest. ACM’s workshop will provide the necessary tools to get you started! Sign up to participate in Hacktoberfest or read more about it [here.](https://hacktoberfest.digitalocean.com/)
 
 ## Contribute to this Repo
 
