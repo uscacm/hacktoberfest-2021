@@ -11,7 +11,7 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 Issues have been created with coding problem descriptions. To contribute to this repository and score your first pull request that will count towards the Hacktoberfest competition, choose an issue and solve the coding problem! Once your solution has been reviewed by our team, we'll approve it! 
 
 ## How to Participate
-1. Sign up for Hacktoberfest ![here.](https://hacktoberfest.digitalocean.com/)
+1. Sign up for Hacktoberfest [here.](https://hacktoberfest.digitalocean.com/)
 2. Choose an issue containing a programming problem you would like to solve.
 3. Solve it!
 4. Wait for ACM's team to review and approve your solution.
