@@ -10,3 +10,6 @@
 1. Write the code that solves the issue in the new file
 1. Push your code to your repo
 1. Create a pull request to merge your forked repo to ACM's repo
+
+## Git Workshop Slides
+https://docs.google.com/presentation/d/1iN34nD2v9dIYghwHZLGtop17Ma-8qyxCcYWXn4NmcrM/edit?usp=sharing
