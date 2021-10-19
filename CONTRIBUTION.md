@@ -10,6 +10,8 @@
 1. Write the code that solves the issue in the new file
 1. Push your code to your repo
 1. Create a pull request to merge your forked repo to ACM's repo
+    1. In the description of the pull request, type this description: "closes ISSUE_NUMBER".
+    1. ISSUE_NUMBER is the number of the issue you are trying to resolve
 
 ## Git Workshop Slides
 https://docs.google.com/presentation/d/1iN34nD2v9dIYghwHZLGtop17Ma-8qyxCcYWXn4NmcrM/edit?usp=sharing
