@@ -7,7 +7,7 @@ bool rotateString(char* s, char* goal, int length) {
     //initialize result
     result[length - 1] = s[0];
     for (int i = 0; i < length-1; i++) {
-        result[i] = s[i+1]
+        result[i] = s[i+1];
     }
 
     //compare with goal
